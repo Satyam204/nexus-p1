@@ -19,7 +19,7 @@ const HomePage = () => {
         borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="Work sans" justifyContent="center">
-          Welcome To Chatter
+          Welcome
         </Text>
       </Box>
       <Box bg="white" w="100%" p={4}
