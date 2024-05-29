@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+.App
+{
+    
+    min-height: 100vh;
+    display: flex;
+    background-image: url(https://i.pinimg.com/originals/38/51/8c/38518cc76d1965753247e4d35f82037a.jpg);
+    background-size: cover;
+}
